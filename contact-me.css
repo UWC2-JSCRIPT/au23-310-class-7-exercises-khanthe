@@ -1,0 +1,22 @@
+#contact-me {
+    width: 500px;
+    margin: 50px auto;
+}
+
+.invalid {
+    border: 1px solid red;
+    background: #ffdddd;
+}
+
+.hidden {
+    display: none;
+}
+
+.error {
+    display: none;
+}
+
+.invalid .error {
+    display: block;
+    color: red;
+}

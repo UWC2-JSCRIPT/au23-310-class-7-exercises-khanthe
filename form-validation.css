@@ -1,0 +1,8 @@
+.invalid {
+    border: 1px solid red;
+    background: #ffdddd;
+}
+
+.hidden {
+    display: none;
+}
